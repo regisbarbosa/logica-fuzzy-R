@@ -17,8 +17,9 @@ Para rodar este código, você precisa instalar as seguintes bibliotecas em R:
 install.packages("FuzzyR")
 install.packages("readxl")
 
+###
 
-### English
+## English
 
 # Fuzzy System for Traffic Light Control / Optimizing traffic lights with Fuzzy Logic
 
