@@ -9,16 +9,6 @@ Estou disponibilizando o código, pois encontrei dificuldades para achar lógica
 
 A biblioteca usada foi FuzzyR, mostrou-se fácil manuseio.
 
-## Instalação
-
-Para rodar este código, você precisa instalar as seguintes bibliotecas em R:
-
-```r
-install.packages("FuzzyR")
-install.packages("readxl")
-
-###
-
 ## English
 
 # Fuzzy System for Traffic Light Control / Optimizing traffic lights with Fuzzy Logic
@@ -30,10 +20,11 @@ I am making the code available because I have difficulty finding fuzzy logic in 
 
 The library used by FuzzyR was easily shown.
 
-## Installation
+## Instalação / Installation
 
-To run this code, you need to install the following libraries in R:
+Para rodar este código, você precisa instalar as seguintes bibliotecas em R:
 
 ```r
 install.packages("FuzzyR")
 install.packages("readxl")
+
