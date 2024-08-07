@@ -9,7 +9,7 @@ Estou disponibilizando o código, pois encontrei dificuldades para achar lógica
 
 A biblioteca usada foi FuzzyR, mostrou-se fácil manuseio.
 
-## English
+# English
 
 # Fuzzy System for Traffic Light Control / Optimizing traffic lights with Fuzzy Logic
 
