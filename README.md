@@ -9,6 +9,17 @@ Estou disponibilizando o código, pois encontrei dificuldades para achar lógica
 
 A biblioteca usada foi FuzzyR, mostrou-se fácil manuseio.
 
+English
+
+Fuzzy System for Traffic Light Control / Optimizing traffic lights with Fuzzy Logic
+
+I wrote this code for my MBA TCC in Data Science and Analytics at USP / ESALQ. The title of the TCC is Fuzzy logic for synchronizing traffic lights and reducing congestion, presented in August 2024. The code implements an intelligent traffic light control system using fuzzy logic in R. The goal is to improve the green and red signaling time based on traffic intensity and trajectory speed.
+The code and the defined settings define the expected objective.
+
+I am making the code available because I have difficulty finding fuzzy logic in R, especially in Portuguese. The codes I found were outdated.
+
+The library used by FuzzyR was easily shown.
+
 ## Instalação / Installation
 
 Para rodar este código, você precisa instalar as seguintes bibliotecas em R:
@@ -17,15 +28,6 @@ Para rodar este código, você precisa instalar as seguintes bibliotecas em R:
 install.packages("FuzzyR")
 install.packages("readxl")
 
-# English
 
-# Fuzzy System for Traffic Light Control / Optimizing traffic lights with Fuzzy Logic
-
-I wrote this code for my MBA TCC in Data Science and Analytics at USP / ESALQ. The title of the TCC is Fuzzy logic for synchronizing traffic lights and reducing congestion, presented in August 2024. The code implements an intelligent traffic light control system using fuzzy logic in R. The goal is to improve the green and red signaling time based on traffic intensity and trajectory speed.
-The code and the defined settings define the expected objective.
-
-I am making the code available because I have difficulty finding fuzzy logic in R, especially in Portuguese. The codes I found were outdated.
-
-The library used by FuzzyR was easily shown.
 
 
