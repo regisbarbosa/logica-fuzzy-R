@@ -28,6 +28,17 @@ Para rodar este código, você precisa instalar as seguintes bibliotecas em R:
 install.packages("FuzzyR")
 install.packages("readxl")
 
+## Como Executar
+
+1. Certifique-se de ter o **R** e o **RStudio** instalados em sua máquina.
+2. Instale as bibliotecas necessárias mencionadas acima.
+3. Faça o clone deste repositório:
+   ```bash
+   git clone https://github.com/seuusuario/nome-do-repositorio.git
+
+
+
+
 
 
 
